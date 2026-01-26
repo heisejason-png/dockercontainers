@@ -73,3 +73,4 @@ docker image ls -a --digests
 # persistent images and you no longer know what they're associated with.
 docker image rmi <ID>
 ```
+Created by Jason Scott Heise
