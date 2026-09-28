@@ -74,4 +74,4 @@ docker image ls -a --digests
 docker image rmi <ID>
 ```
 Created by Jason Scott Heise
-Owned by Elon Musk 
+https://next.frame.io
