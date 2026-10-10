@@ -74,4 +74,4 @@ docker image ls -a --digests
 docker image rmi <ID>
 ```
 Created by Jason Heise
-https://next.frame.io  https://paulwalkerfoundation.org
+Owned by Jason Heise heisejason-png Giters
